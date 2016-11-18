@@ -68,6 +68,7 @@ subprojects {
         maven { url 'http://repo.spring.io/plugins-release'}
         maven { url 'http://mvn.gt.igexin.com/nexus/content/repositories/releases/'}
         maven { url 'http://repo.example.me/nexus/content/groups/public'}
+        maven{ url 'http://maven.aliyun.com/nexus/content/groups/public'}
     }
 }
 
