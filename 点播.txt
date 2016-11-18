@@ -1,0 +1,72 @@
+http://10.80.84.156:8080/colorfulineSP/live/app/hostiStreams.do
+
+{
+	"userId":"",
+	"streamId":"z1.colorfuline-live.nba-live"
+}
+
+{
+  "token": "",
+  "status": "1",
+  "code": "1001",
+  "message": "",
+  "response": [
+    {
+      "ORIGIN": "http://pili-media.www.colorfuline.cn/recordings/z1.colorfuline-live.nba-live/1478687555.m3u8"
+    },
+    {
+      "ORIGIN": "http://pili-media.www.colorfuline.cn/recordings/z1.colorfuline-live.nba-live/1478687556.m3u8"
+    },
+    {
+      "ORIGIN": "http://pili-media.www.colorfuline.cn/recordings/z1.colorfuline-live.nba-live/1478687556.m3u8"
+    },
+    {
+      "ORIGIN": "http://pili-media.www.colorfuline.cn/recordings/z1.colorfuline-live.nba-live/1478687556.m3u8"
+    },
+    {
+      "ORIGIN": "http://pili-media.www.colorfuline.cn/recordings/z1.colorfuline-live.nba-live/1478687557.m3u8"
+    },
+    {
+      "ORIGIN": "http://pili-media.www.colorfuline.cn/recordings/z1.colorfuline-live.nba-live/1478687557.m3u8"
+    },
+    {
+      "ORIGIN": "http://pili-media.www.colorfuline.cn/recordings/z1.colorfuline-live.nba-live/1478687558.m3u8"
+    },
+    {
+      "ORIGIN": "http://pili-media.www.colorfuline.cn/recordings/z1.colorfuline-live.nba-live/1478687558.m3u8"
+    },
+    {
+      "ORIGIN": "http://pili-media.www.colorfuline.cn/recordings/z1.colorfuline-live.nba-live/1478687558.m3u8"
+    },
+    {
+      "ORIGIN": "http://pili-media.www.colorfuline.cn/recordings/z1.colorfuline-live.nba-live/1478687558.m3u8"
+    },
+    {
+      "ORIGIN": "http://pili-media.www.colorfuline.cn/recordings/z1.colorfuline-live.nba-live/1478687558.m3u8"
+    },
+    {
+      "ORIGIN": "http://pili-media.www.colorfuline.cn/recordings/z1.colorfuline-live.nba-live/1478687558.m3u8"
+    },
+    {
+      "ORIGIN": "http://pili-media.www.colorfuline.cn/recordings/z1.colorfuline-live.nba-live/1478687559.m3u8"
+    },
+    {
+      "ORIGIN": "http://pili-media.www.colorfuline.cn/recordings/z1.colorfuline-live.nba-live/1478687559.m3u8"
+    },
+    {
+      "ORIGIN": "http://pili-media.www.colorfuline.cn/recordings/z1.colorfuline-live.nba-live/1478687559.m3u8"
+    },
+    {
+      "ORIGIN": "http://pili-media.www.colorfuline.cn/recordings/z1.colorfuline-live.nba-live/1478687560.m3u8"
+    },
+    {
+      "ORIGIN": "http://pili-media.www.colorfuline.cn/recordings/z1.colorfuline-live.nba-live/1478687560.m3u8"
+    },
+    {
+      "ORIGIN": "http://pili-media.www.colorfuline.cn/recordings/z1.colorfuline-live.nba-live/1478687560.m3u8"
+    },
+    {
+      "ORIGIN": "http://pili-media.www.colorfuline.cn/recordings/z1.colorfuline-live.nba-live/1478687561.m3u8"
+    }
+  ]
+}
